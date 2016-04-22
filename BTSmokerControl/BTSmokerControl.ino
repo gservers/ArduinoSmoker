@@ -20,7 +20,7 @@
 *
 *
 *
-*
+* Code for the temperature conversion taken from http://hruska.us/tempmon/
 *
 * Ian McElhenny - mcelhenny_ian@yahoo.com
 */
