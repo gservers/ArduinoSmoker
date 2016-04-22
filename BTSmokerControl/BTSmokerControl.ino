@@ -4,6 +4,7 @@
 *    - Bluetooth
 *    - Android App
 *    - Software Serial for the bluetooth communication
+*    - LCD display of current temperatures
 *    - (TBD) PID control for temperature of pit blower motor to control pit temperature
 * I/O:
 *    - In: target pit temperature, target meat temperature, (TBD) start (to start elasped time)
